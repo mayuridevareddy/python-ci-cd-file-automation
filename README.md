@@ -28,3 +28,47 @@ It highlights basic DevOps practices like automation, workflow configuration, an
 ---
 
 ## 📂 Project Structure
+📦 python-ci-cd-file-automation
+┣ 📜 app.py
+┗ 📁 .github
+┗ 📁 workflows
+┗ 📜 main.yml
+
+
+---
+
+## 🔄 CI/CD Workflow
+1. Code is pushed to GitHub  
+2. GitHub Actions triggers the workflow  
+3. Python environment is set up  
+4. Script runs automatically  
+5. Output is displayed in logs  
+
+---
+
+## 📊 Sample Output
+File Content:
+Hello DevOps World!
+This is a CI/CD pipeline demo.
+
+Script executed successfully
+
+
+---
+
+## 🎯 Key Learnings
+✔ Understanding CI/CD fundamentals  
+✔ Working with GitHub Actions workflows  
+✔ Automating tasks using Python  
+✔ Handling files and logs in pipelines  
+
+---
+
+## 👩‍💻 Author
+**Mayuri Devareddy**  
+🔗 https://github.com/mayuridevareddy  
+
+---
+
+## ⭐ If you like this project
+Give it a ⭐ and support!
